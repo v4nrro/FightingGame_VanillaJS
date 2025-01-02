@@ -5,3 +5,9 @@ Sorted by: RECENTS ON TOP
 
 12/30/2024:
 - Video n2 min 19:00 Correcting the image transparency.
+
+1/1/2025:
+- Video n3 min 17:19 My personal naming class convention.
+
+1/2/2025:
+- Video n4 1:00 Retrieving the full sprite sheet.
